@@ -16,7 +16,6 @@
   "bugs": {
     "url": "https://github.com/derasan/balls-animation/issues"
   },
-  "homepage": "https://github.com/derasan/balls-animation#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.6",
