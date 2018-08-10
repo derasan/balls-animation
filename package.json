@@ -13,9 +13,6 @@
   },
   "author": "derasan",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/derasan/balls-animation/issues"
-  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.6",
