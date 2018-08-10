@@ -1,0 +1,18 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #00bcd4;
+  width: 1000px; }
+  body header {
+    background-color: #4a4d52; }
+  body section {
+    background-color: #131218;
+    height: 500px; }
+
+#ball {
+  box-shadow: #f93581 0 0 100px;
+  background-color: #f93581;
+  border-radius: 50%;
+  position: absolute;
+  transition: background-color 3s; }
+
